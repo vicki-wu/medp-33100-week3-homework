@@ -11,7 +11,7 @@
 - When a user clicks the "Nature" button, show only the photos related to nature
 - When a user clicks the "City" button, show only the photos related to cities
 - When a user clicks the "Animals" button, show only the photos related to animals.
-4. Push your changes to your forked repository 
+4. Push your changes to the `main` branch of your forked repository 
 5. Host your page using Github Pages
 5. Add the link to your webpage to this [spreadsheet](https://docs.google.com/spreadsheets/d/1ljYqvvO-DeHI4VusMOgymsxbPTgJBKeNCln1Mt7FOpQ/edit?usp=sharing)
 
