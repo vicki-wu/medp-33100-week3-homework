@@ -48,3 +48,5 @@ const photos = [
         type: 'animals',
     },
 ];
+
+console.log('hello');
